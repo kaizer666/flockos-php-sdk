@@ -1,0 +1,17 @@
+{
+    "name": "qafeen/flock",
+    "description": "FlockOS PHP SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed Mudasir",
+            "email": "hello@mudasir.m"
+        }
+    ],
+    "require": {
+        "illuminate/http": "~5.1",
+        "guzzlehttp/guzzle": "^6.2",
+        "tymon/jwt-auth": "0.5.*"
+    }
+}
