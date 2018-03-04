@@ -1,12 +1,12 @@
 {
-    "name": "qafeen/flock",
+    "name": "kaizer666/flock",
     "description": "FlockOS PHP SDK",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohammed Mudasir",
-            "email": "hello@mudasir.m"
+            "name": "kaizer",
+            "email": "kaizer@kai-zer.ru"
         }
     ],
     "require": {
